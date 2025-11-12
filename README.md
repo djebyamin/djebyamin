@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @djebyamin, a third-year Computer Engineering student at ENSIT.
+- 👋 Hi, I’m @djebyamin, i'm a fullstack developer.
 - 👀 I’m interested in software development, AI, and web technologies.
 - 🌱 I’m currently learning advanced web development with Next.js, PostgreSQL, and AI concepts.
 - 💞️ I’m looking to collaborate on projects related to web applications, AI, or any innovative tech solutions.
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/DJEBBI) | Email: djebyamin3@gmail.com
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He
 - ⚡ Fun fact: I’ve developed applications using a variety of frameworks, from JavaFX to Angular!
 - ### Languages and Tools:
 
